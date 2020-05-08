@@ -1,0 +1,28 @@
+name: bpmcounter
+description: Simple bpm counter application
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  bottom_navy_bar: ^5.4.0
+  numberpicker: ^1.2.0
+  assets_audio_player: ^1.4.0+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  assets:
+    - assets/
+
+  uses-material-design: true
+
