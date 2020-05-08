@@ -1,6 +1,6 @@
-# bpmcounter
+# Tap Bpm & Metronome
 
-Simple bpm counter application
+Simple bpm counter and metronome application
 
 ## Getting Started
 
